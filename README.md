@@ -1,9 +1,9 @@
-# This pj owes greatly to [MaybeShewill-CV](https://github.com/MaybeShewill-CV).So please refer to [Readme.md](https://github.com/MaybeShewill-CV/attentive-gan-derainnet/blob/master/README.md) to learn about the way to operate on this pj.
+1. This pj owes greatly to [MaybeShewill-CV](https://github.com/MaybeShewill-CV).So please refer to [Readme.md](https://github.com/MaybeShewill-CV/attentive-gan-derainnet/blob/master/README.md) to learn about the way to operate on this pj.
 
-# My tiny work on attentive GAN(Tensorflow version)
+2. My tiny work on attentive GAN(Tensorflow version)
 Your can find my report [here](Report_HuixiangLuo_15307130012.pdf).
 
-# Result list
+3. Result list
 |Model        	   					|Dataset      |PSNR    |SSIM   |NIQE   |
 | -----------  	 					| ----------- | ------ | ----- | ----- |
 |Torch ver        					|test_a       |31.5160 |0.9213 |3.6448 | 
