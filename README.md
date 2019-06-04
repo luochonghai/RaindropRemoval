@@ -3,7 +3,8 @@
 2. My tiny work on attentive GAN(Tensorflow version)
 Your can find my report [here](https://github.com/luochonghai/RaindropRemoval/blob/master/ReadmeMaterial/Report_HuixiangLuo_15307130012.pdf).
 
-3. Simply set `weights_path`, `gt_path` ,`data_path` and `save_path` in predict.py, then run the command:</br>`python tools/predict.py`</br>
+3. Simply set `weights_path`, `gt_path` ,`data_path` and `save_path` in predict.py, then run the command:
+```python tools/predict.py```
 You will get PSNR and SSIM metrics. When running niqe.m, you'd get NIQE metric.
 
 ### Result list 
